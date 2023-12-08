@@ -1,0 +1,270 @@
+body{
+    font-family: Verdana, sans-serif;
+}
+
+.naglowek{
+    width: 100%;
+    background-image: linear-gradient(to right, rgb(53, 53, 53), red);
+    float: left;
+}
+
+.naglowek img{
+    padding: 0px 0px 0px 20px;
+    
+}
+
+.naglowek a{
+    float: right;
+    padding: 10px 20px 0px 0px;
+}
+
+.naglowek iframe{
+    float: right;
+    border: 0px;
+}
+
+.logowanie{
+    text-align: center;
+    font-size: 15px;
+}
+
+.logowanie input{
+    height: 15px;
+    background-color: rgb(53, 53, 53);
+    border-radius: 25px;
+    color: white;
+    font-size: 15px;
+}
+
+.logowanie button{
+    height: 20px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.menu {
+    background-color: red;
+    width: 100%;
+    float: left;
+}
+
+.menu ul{
+    list-style: none;
+}
+
+.menu ul li{
+    text-align: center;
+    display: inline-block;
+    border-right: 1px solid white;
+    font-size: 15px;
+    padding: 5px 10px 5px 10px;
+    transition: all 0.3s linear;
+    color: white;
+}
+
+.menu ul li:hover{
+    background: white;
+    color: red;
+    border-radius: 5px;
+}
+
+.menu ul li a {
+    padding: 0px 10px;
+    color: inherit;
+    text-decoration: none;
+}
+
+.menu input{
+    height: 30px;
+    background-color: rgb(53, 53, 53);
+    border-radius: 25px;
+    color: white;
+    font-size: 15px;
+}
+
+.menu button{
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.filtry{
+    color: white;
+    background-color: rgb(53, 53, 53);
+    font-size: 15px;
+    float: left;
+    width: 18%;
+    height: 1300px;
+    padding: 20px 20px 20px 40px;
+}
+
+.filtry form input[type="number"]{
+    text-align: center;
+    width: 30%;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 25px;
+}
+
+.filtry form input[type="checkbox"]{
+    width: 20px;
+    height: 20px;
+    margin: 10px 20px;
+}
+
+a:hover{
+    color: rgb(53, 53, 53);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.link{
+    text-decoration: none;
+    color:  black;
+}
+
+.oferta{
+    float: left;
+    width: 25%;
+    height: 600px;
+    border: 1px solid white;
+    text-align: justify;
+    text-align: center;
+}
+
+.oferta:hover{
+    border: 1px solid black;
+    color: red;
+}
+
+.oferta img{
+    height: 300px;
+}
+
+.oferta2{
+    float: left;
+    width: 25%;
+    height: 600px;
+    border: 1px solid white;
+    text-align: justify;
+    text-align: center;
+}
+
+.oferta2:hover{
+    border-color: black;
+    color: red;
+}
+
+.oferta2 img{
+    height: 300px;
+}
+
+.oferta3{
+    float: left;
+    width: 25%;
+    height: 600px;
+    border: 1px solid white;
+    text-align: justify;
+    text-align: center;
+}
+
+.oferta3:hover{
+    border-color: black;
+    color: red;
+}
+
+.oferta3 img{
+    height: 300px;
+}
+
+.oferta4{
+    float: left;
+    width: 25%;
+    height: 600px;
+    border: 1px solid white;
+    text-align: justify;
+    text-align: center;
+}
+
+.oferta4:hover{
+    border-color: black;
+    color: red;
+}
+
+.oferta4 img{
+    height: 300px;
+}
+
+.oferta5{
+    float: left;
+    width: 25%;
+    height: 600px;
+    border: 1px solid white;
+    text-align: justify;
+    text-align: center;
+}
+
+.oferta5:hover{
+    border-color: black;
+    color: red;
+}
+
+.oferta5 img{
+    height: 300px;
+}
+
+.oferta6{
+    float: left;
+    width: 25%;
+    height: 600px;
+    border: 1px solid white;
+    text-align: justify;
+    text-align: center;
+}
+
+.oferta6:hover{
+    border-color: black;
+    color: red;
+}
+
+.oferta6 img{
+    height: 300px;
+}
+
+.stopka{
+    float: left;
+    width: 100%;
+    background-color: rgb(53, 53, 53);
+}
+
+table{
+    margin: auto;
+    margin-top: 30px;
+    text-align: left;
+    line-height: 30px;
+    font-size: 15px;
+}
+
+table a:hover{
+    color: rgb(122, 122, 122);
+}
+
+tr, td{
+    border-right: 1px solid rgb(122, 122, 122);
+    padding: 0px 30px 0px 10px
+   
+}
+
+th{
+    color: white;
+}
+
+.stopka p{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.562);
+
+}
